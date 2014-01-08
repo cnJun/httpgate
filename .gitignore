@@ -1,0 +1,9 @@
+.idea/
+target/
+*.iml
+.settings
+.classpath
+.project
+*.jar
+.svn
+.o
